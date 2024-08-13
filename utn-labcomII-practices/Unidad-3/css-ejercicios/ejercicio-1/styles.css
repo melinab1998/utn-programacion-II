@@ -1,0 +1,17 @@
+/* Selector de tipo */
+p {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+/* Selector de clase */
+.parrafo-clase {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+/* Selector de ID */
+#parrafo-id {
+    background-color: lightcoral;
+    padding: 10px;
+}
